@@ -1,0 +1,30 @@
+R:\EGA-Théorie\ICH-0320\localisation\localisation\bin\Debug\net6.0\localisation.exe
+R:\EGA-Théorie\ICH-0320\localisation\localisation\bin\Debug\net6.0\localisation.deps.json
+R:\EGA-Théorie\ICH-0320\localisation\localisation\bin\Debug\net6.0\localisation.runtimeconfig.json
+R:\EGA-Théorie\ICH-0320\localisation\localisation\bin\Debug\net6.0\localisation.dll
+R:\EGA-Théorie\ICH-0320\localisation\localisation\bin\Debug\net6.0\localisation.pdb
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.csproj.AssemblyReference.cache
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.GeneratedMSBuildEditorConfig.editorconfig
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.AssemblyInfoInputs.cache
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.AssemblyInfo.cs
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.csproj.CoreCompileInputs.cache
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.dll
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\refint\localisation.dll
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.pdb
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\localisation.genruntimeconfig.cache
+R:\EGA-Théorie\ICH-0320\localisation\localisation\obj\Debug\net6.0\ref\localisation.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\localisation.exe
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\localisation.deps.json
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\localisation.runtimeconfig.json
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\localisation.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\localisation.pdb
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.csproj.AssemblyReference.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.GeneratedMSBuildEditorConfig.editorconfig
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.AssemblyInfoInputs.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.AssemblyInfo.cs
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.csproj.CoreCompileInputs.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\refint\localisation.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.pdb
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\localisation.genruntimeconfig.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\ref\localisation.dll

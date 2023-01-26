@@ -1,0 +1,15 @@
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\IpGeoFind.exe
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\IpGeoFind.deps.json
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\IpGeoFind.runtimeconfig.json
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\IpGeoFind.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\bin\Debug\net6.0\IpGeoFind.pdb
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.csproj.AssemblyReference.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.GeneratedMSBuildEditorConfig.editorconfig
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.AssemblyInfoInputs.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.AssemblyInfo.cs
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.csproj.CoreCompileInputs.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\refint\IpGeoFind.dll
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.pdb
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\IpGeoFind.genruntimeconfig.cache
+R:\PAP_Théorie\ICH-114 [T]\Exercices\GeoFind\localisation\obj\Debug\net6.0\ref\IpGeoFind.dll

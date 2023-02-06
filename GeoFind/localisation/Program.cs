@@ -14,5 +14,6 @@ while (true) {
     }
 var uri = $"http://ip-api.com/json/{ip}";
 var info = httpClient.GetFromJsonAsync<GeoInfo>(uri).Result;
+    //Result
     Console.WriteLine($" Status: {info.Status}\r\n Country: {info.Country}\r\n City: {info.City}\r\n ZIP: {info.ZIP}\r\n Query: {info.Query} \r\n");
 }    

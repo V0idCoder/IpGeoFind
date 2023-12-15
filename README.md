@@ -1,2 +1,2 @@
 # IpGeoFind
-Find the location from an ip address, using C#.
+Find the location using an IPV4 address, developped in C#.
